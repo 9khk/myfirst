@@ -5,4 +5,5 @@ print("hello world!")
 print("hello friends")
 
 print("ok")
+print(0)
 
